@@ -1,0 +1,7 @@
+C:\Users\merve bilgiç\source\repos\binary_gap\binary_gap\bin\Debug\binary_gap.exe.config
+C:\Users\merve bilgiç\source\repos\binary_gap\binary_gap\bin\Debug\binary_gap.exe
+C:\Users\merve bilgiç\source\repos\binary_gap\binary_gap\bin\Debug\binary_gap.pdb
+C:\Users\merve bilgiç\source\repos\binary_gap\binary_gap\obj\Debug\binary_gap.csprojAssemblyReference.cache
+C:\Users\merve bilgiç\source\repos\binary_gap\binary_gap\obj\Debug\binary_gap.csproj.CoreCompileInputs.cache
+C:\Users\merve bilgiç\source\repos\binary_gap\binary_gap\obj\Debug\binary_gap.exe
+C:\Users\merve bilgiç\source\repos\binary_gap\binary_gap\obj\Debug\binary_gap.pdb
